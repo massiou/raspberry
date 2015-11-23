@@ -1,0 +1,8 @@
+# Compiled python file
+*.pyc
+
+# Python configuration file
+config.py
+
+# temporary file
+*~
